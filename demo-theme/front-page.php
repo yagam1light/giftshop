@@ -21,8 +21,7 @@
         <div class = "pop-product">
             <img src="<?php echo get_template_directory_uri(); ?>/images/gift1.jpeg" alt="product">
             <h3>Experiences & Special Moments</h3>
-            <p>Give the gift of adventure and relaxation with experience vouchers for spa days, travel, or a romantic dinner. 
-                Memorable moments that last longer than any gift.</p>
+            <p>Give the gift of adventure and relaxation with experience vouchers for spa days, travel, or a romantic dinner.</p>
             <a href="" class="pop-product-btn">Learn more</a>
         </div>
     </div>
@@ -97,5 +96,6 @@
     </div>
 </div>
 </main>
+
 
 <?php get_footer(); ?>
