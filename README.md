@@ -1,12 +1,12 @@
 # giftshop
 # My WordPress Theme
 
-Custom WordPress theme with WooCommerce support.
+Demo of custom WordPress theme with WooCommerce support.
 
 ## Tech Stack
 - WordPress
 - WooCommerce
-- PHP 8
+- PHP
 - HTML5/CSS
 - Custom Gutenberg blocks support
 
@@ -26,4 +26,4 @@ Custom WordPress theme with WooCommerce support.
 4. Install WooCommerce
 
 ## Notes
-This theme is made for portfolio and demo purposes.
+This theme is made for portfolio and demo purposes. 
