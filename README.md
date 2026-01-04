@@ -16,8 +16,8 @@ Custom WordPress theme with WooCommerce support.
 - Support for variable products
 
 ## Screenshots
-![Homepage](assets/images/home.jpg)
-![Shop](assets/images/shop.jpg)
+![Homepage](demo-theme/home.jpg)
+![Shop](demo-theme/shop.jpg)
 
 ## Installation
 1. Download or clone repository
